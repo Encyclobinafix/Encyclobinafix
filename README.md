@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Sabina ELumelu
-- ✋#### **I am a certified Google Data Analyst, a Pharmacist, and A Professional Scrum Master**
+- #### **I am a certified Google Data Analyst, a Pharmacist, and A Professional Scrum Master**
 - Having a background in Pharmacy, I have been priviledge to work in the PharmTech. space, helping to analyze data and provide insights to stakeholders.
 - During my pre-highschool and highschcool years, my favorite subject was Mathematics. I loved solving difficult problems. It is no wonder why I love data anakytics and have decided to pursue a career in it.
 - My long term goal is to become an analytics manager in the health sector.
