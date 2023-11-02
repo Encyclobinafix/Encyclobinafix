@@ -1,4 +1,4 @@
-👋 **Hi, My name is Sabina ELumelu**
+👋 **Hi, My name is Sabina Elumelu**
 🤓 I am a certified Google Data Analyst, a licensed Pharmacist, and a Professional Scrum Master.
 
 🧱 With a strong foundation in Pharmacy, I have had the privilege of working in the pharmaceutical technology space, where I contribute to data analysis and provide valuable insights to stakeholders.
