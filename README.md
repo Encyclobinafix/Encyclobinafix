@@ -14,6 +14,7 @@
 🆓 Feel free to connect with me on LinkedIn here: 👉 https://www.linkedin.com/in/sabina-elumelu
 
 🔗 Here are the links to my verifiable certificates: 👇
+
 https://www.credly.com/badges/5b24bf74-5329-45a0-a003-322a52b811c9
 https://www.credly.com/badges/5194dc77-1cdf-49b5-a206-819e72caee42
 <!---
