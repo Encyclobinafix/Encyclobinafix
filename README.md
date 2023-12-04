@@ -3,9 +3,9 @@
 
 🧱 With a strong foundation in Pharmacy, I have had the privilege of working in the pharmaceutical technology space, where I contribute to data analysis and provide valuable insights to stakeholders.
 
-🦅 My passion for data analytics was ignited during my formative years in pre-high school and high school, with Mathematics being my favorite subject. I developed a deep affinity for solving complex problems, which naturally led me to pursue a career in data analytics.
+🦅 My passion for data analytics was ignited during my formative years in pre-high school and high school, with Mathematics being my favorite subject. I developed a deep passion for solving complex problems, which naturally led me to pursue a career in data analytics post-university.
 
-✈️ My ultimate career aspiration is to become an analytics manager in the healthcare sector, where I can leverage my skills and expertise to drive meaningful insights and decisions.
+✈️ My ultimate career aspiration is to become an analytics manager in the healthcare sector, where I can leverage my analytical skills viz-a-viz knowlegde of medications, and expertise in problem solving to drive meaningful insights and decisions for health optimization and improved quality of life for people world over.
 
 🌱 Currently, I am dedicated to enhancing my proficiency in various areas, including SQL, Python, PowerBI, R programming, SPSS, and advanced Excel. I have actively worked on projects and continue to engage in new ones.
 
