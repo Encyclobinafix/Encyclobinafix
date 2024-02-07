@@ -11,7 +11,7 @@
 
 💞️ I am eager to collaborate on challenging projects that can further hone my skills and bring innovative solutions to life. You can reach me via email at elumelusabina@gmail.com.
 
-🆓 Feel free to connect with me on LinkedIn here: 👉 https://www.linkedin.com/in/sabina-elumelu
+🆓 Feel free to connect with me on LinkedIn here: 👉 [here](https://www.linkedin.com/in/sabina-elumelu)
 
 🔗 Here are the links to my verifiable certificates: 👇
 
