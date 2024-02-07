@@ -1,7 +1,7 @@
 👋 **Hi, My name is Sabina Elumelu**
 🤓 I am a certified Google Data Analyst, a licensed Pharmacist, and a Professional Scrum Master.
 
-🧱 With a strong foundation in Pharmacy, I have had the privilege of working in the pharmaceutical technology space, where I contribute to data analysis and provide valuable insights to stakeholders.
+🧱 With a strong foundation in Pharmacy, I have had the privilege of working in the pharmaceutical technology space, where I contributed to data analysis and provided valuable insights to stakeholders.
 
 🦅 My passion for data analytics was ignited during my formative years in pre-high school and high school, with Mathematics being my favorite subject. I developed a deep passion for solving complex problems, which naturally led me to pursue a career in data analytics post-university.
 
